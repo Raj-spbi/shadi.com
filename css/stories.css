@@ -1,0 +1,95 @@
+#gallery{
+    height:1200px;
+    width:1498px;
+    background: #fafafa;
+    border:1px solid #fafafa;
+}
+#gallery_heading{
+    height:160px;
+    width:1498px;
+    background: #4da3d2;
+    text-align: center;
+    color:#ef3e31;
+    line-height: 50px;
+}
+#row1{
+    height:300px;
+    width: 1000px;
+    background: #fafafa;
+    margin-top: 40px;
+}
+#col1{
+    height:300px;
+    width: 300px;
+    float:left;
+    //background: red;
+}
+#col2{
+    height:300px;
+    width: 300px;
+    float:left;
+     //background: yellow;
+    margin-left: 50px;margin-right: 50px;
+    
+}
+#col3{
+    height:300px;
+    width: 300px;
+    float:left;
+     //background: yellow;
+    
+}
+#row2{
+    height:300px;
+    width: 1000px;
+    //background: lightgreen;
+    margin-top: 40px;
+}
+#col21{
+    height:300px;
+    width: 300px;
+    float:left;
+    //background: red;
+}
+#col22{
+    height:300px;
+    width: 300px;
+    float:left;
+     //background: yellow;
+    margin-left: 50px;margin-right: 50px;
+    
+}
+#col23{
+    height:300px;
+    width: 300px;
+    float:left;
+     //background: yellow;
+    
+}
+#row3{
+    height:300px;
+    width: 1000px;
+    //background: lightgreen;
+    margin-top: 40px;
+}
+#col31{
+    height:300px;
+    width: 300px;
+    float:left;
+    //background: red;
+}
+#col32{
+    height:300px;
+    width: 300px;
+    float:left;
+     //background: yellow;
+    margin-left: 50px;margin-right: 50px;
+    
+}
+#col33{
+    height:300px;
+    width: 300px;
+    float:left;
+     //background: yellow;
+    
+}
